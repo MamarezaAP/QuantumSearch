@@ -1,9 +1,0 @@
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/Experimental.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/QuantumSearch.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/Continuous.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/Nightly.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/PACKAGE.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/mamar/source/repos/QuantumSearch/build/CMakeFiles/ZERO_CHECK.dir
